@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 *.fits
 MCMC_Outputs/*
+*.h5
